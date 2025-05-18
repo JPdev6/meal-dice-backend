@@ -8,3 +8,4 @@ beautifulsoup4
 wikipedia
 requests
 praw
+dotenv
